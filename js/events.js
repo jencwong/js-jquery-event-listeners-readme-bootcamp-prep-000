@@ -3,7 +3,8 @@
 $(document).ready(function(){
 
 // call functions here
-$("p").on("click", function getIt() {
-  return alert("Hey!"); 
+function getIt() {
+$("p").on("click", function();
+  alert("Hey!"); 
   }); 
 });
