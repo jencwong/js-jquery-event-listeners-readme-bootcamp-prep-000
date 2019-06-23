@@ -10,3 +10,5 @@ $('p').on("click", function() {
 }
 });
 
+// call functions here
+getIt ();
